@@ -10,7 +10,6 @@
 
 
 
-<details><summary>Próba tábla<summary><details>
 
 |***alkatrészek***| típus| db|
 |-----------------|------|---|
