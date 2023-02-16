@@ -1,6 +1,6 @@
 # Hódos Balázs  portfoliaja
 <details><summary>Elkészített munkáim<summary><details>
-<p> Potméter<>
+<p> 11.évfolyam <>
 
 
 
