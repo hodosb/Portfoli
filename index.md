@@ -1,5 +1,5 @@
 # a nevem HB
 
-|alkatrészek| típus| db|
+|***alkatrészek***| típus| db|
 |-----------|------|---|
-|Ellenállás |------|18k|
+|***Ellenállás***|------|18k|
