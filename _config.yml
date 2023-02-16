@@ -3,7 +3,7 @@ title: Portfolio HB
 description: Projectek
 
 markdown : kramdown
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme:jekyll-theme-modernist
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
