@@ -2,3 +2,4 @@
 
 |alkatrészek| típus| db|
 |-----------|------|---|
+|Ellenállás |------|18k|
