@@ -5,11 +5,7 @@
 
 
 
-<details><summary>Elkészített munkáim<summary><details>
-#### 11évfolyamon elkészített munkák ####
-
-
-
+<details><summary>Elkészített munkáim<summary><details
 
 |alkatrészek| típus| db|
 |-----------|------|---|
